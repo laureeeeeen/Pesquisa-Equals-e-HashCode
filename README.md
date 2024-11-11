@@ -1,0 +1,1 @@
+# Pesquisa-Equals-e-HashCode
